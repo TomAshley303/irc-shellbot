@@ -1,7 +1,6 @@
 <?php
 /*
-Shellbot 0.9a by kraypius
-If you code a feature you would like me to add email tommieashley@gmail.com
+Shellbot 0.9a by Tom Ashley
 
 The following variables need to be set before execution:
 $host, $port, $nick, $nickpass, $chan, $shserver, $shuser, $shpass
